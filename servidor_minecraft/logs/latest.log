@@ -3936,3 +3936,32 @@ java.lang.IllegalArgumentException: null
 [27Nov2024 13:25:38.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 has made the advancement [Ignoring the Advices]
 [27Nov2024 13:27:51.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JakeRomas has made the advancement [Suit Up]
 [27Nov2024 13:28:18.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 has made the advancement [Let's Get To Work]
+[27Nov2024 13:28:58.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JakeRomas has reached the goal [Adventurer ]
+[27Nov2024 13:30:05.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 was slain by Silvana Heartfire
+[27Nov2024 13:30:05.443] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ivancito3008 at X: -690.450753155247, Y: 29.0, Z: -723.0504277247626
+[27Nov2024 13:30:11.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 has made the advancement [How'd You Get This?]
+[27Nov2024 13:31:02.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 was fireballed by Silvana Heartfire
+[27Nov2024 13:31:02.634] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ivancito3008 at X: -698.4174899162566, Y: 29.0, Z: -708.0877215480704
+[27Nov2024 13:31:52.681] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ivancito3008 picking up: PermanentItemEntity['Soul Crystal'/12310, l='ServerLevel[world]', x=-698.42, y=30.50, z=-708.09]
+[27Nov2024 13:31:52.682] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/12310, l='ServerLevel[world]', x=-698.42, y=30.50, z=-708.09]
+[27Nov2024 13:32:14.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 was slain by Silvana Heartfire
+[27Nov2024 13:32:14.035] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ivancito3008 at X: -698.640479298515, Y: 29.0, Z: -708.026274220141
+[27Nov2024 13:33:29.636] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ivancito3008 picking up: PermanentItemEntity['Soul Crystal'/13127, l='ServerLevel[world]', x=-698.64, y=30.50, z=-708.03]
+[27Nov2024 13:33:29.637] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/13127, l='ServerLevel[world]', x=-698.64, y=30.50, z=-708.03]
+[27Nov2024 13:33:40.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 has made the advancement [Diamonds!]
+[27Nov2024 13:33:40.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 has made the advancement [Magnificence]
+[27Nov2024 13:33:45.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 was slain by Spider
+[27Nov2024 13:33:45.134] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ivancito3008 at X: -713.1288104802866, Y: 28.0, Z: -697.116813450831
+[27Nov2024 13:33:54.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JakeRomas has reached the goal [Perfectly Shaped Rock]
+[27Nov2024 13:34:50.702] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ivancito3008 picking up: PermanentItemEntity['Soul Crystal'/14037, l='ServerLevel[world]', x=-713.13, y=29.50, z=-697.12]
+[27Nov2024 13:34:50.703] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/14037, l='ServerLevel[world]', x=-713.13, y=29.50, z=-697.12]
+[27Nov2024 13:35:47.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 was slain by Spider
+[27Nov2024 13:35:47.681] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ivancito3008 at X: -698.6999999880791, Y: 32.0, Z: -720.6424694693146
+[27Nov2024 13:35:47.751] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Nov2024 13:35:47.752] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[27Nov2024 13:35:47.752] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[27Nov2024 13:35:47.752] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[27Nov2024 13:35:47.752] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[27Nov2024 13:36:31.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 has made the advancement [Penteconter]
+[27Nov2024 13:36:32.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 was slain by Zombie
+[27Nov2024 13:36:32.431] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ivancito3008 at X: -730.0625999626476, Y: 37.0, Z: -722.816204904014
