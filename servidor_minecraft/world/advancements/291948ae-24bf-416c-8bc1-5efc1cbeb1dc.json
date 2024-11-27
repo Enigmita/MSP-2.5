@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/magnet_ring": {
+    "criteria": {
+      "has_parent_recipe": "2024-11-27 13:10:15 +0000"
+    },
+    "done": false
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2024-11-27 10:48:03 +0000"
@@ -128,6 +134,12 @@
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2024-11-27 10:48:03 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/iron_ring": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-27 13:10:15 +0000"
     },
     "done": true
   },
@@ -355,6 +367,18 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-11-27 13:07:03 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/iron_ring": {
+    "criteria": {
+      "has_the_recipe": "2024-11-27 13:10:15 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/soul_compass": {
     "criteria": {
       "is_cursed_one": "2024-11-27 12:51:13 +0000"
@@ -408,6 +432,12 @@
       "killed_something": "2024-11-27 11:12:28 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/ender_ring": {
+    "criteria": {
+      "has_parent_recipe": "2024-11-27 13:10:15 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_red": {
     "criteria": {
@@ -546,6 +576,12 @@
       "log_spam_fixer": "2024-11-27 10:48:05 +0000"
     },
     "done": false
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-11-27 13:08:44 +0000"
+    },
+    "done": true
   },
   "vinery:wine_press": {
     "criteria": {
@@ -764,6 +800,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/golden_ring": {
+    "criteria": {
+      "has_parent_recipe": "2024-11-27 13:10:15 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_yellow": {
     "criteria": {
       "has_the_recipe": "2024-11-27 10:48:03 +0000"
@@ -836,6 +878,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2024-11-27 13:09:35 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2024-11-27 10:48:03 +0000"
@@ -845,6 +893,12 @@
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-27 10:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-11-27 13:14:51 +0000"
     },
     "done": true
   },
@@ -1270,6 +1324,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2024-11-27 10:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-11-27 13:10:15 +0000"
     },
     "done": true
   },

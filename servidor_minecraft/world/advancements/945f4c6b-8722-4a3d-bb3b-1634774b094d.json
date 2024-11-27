@@ -1543,12 +1543,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "direct": "2024-11-27 12:48:00 +0000"
-    },
-    "done": false
-  },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2024-11-27 09:40:20 +0000"

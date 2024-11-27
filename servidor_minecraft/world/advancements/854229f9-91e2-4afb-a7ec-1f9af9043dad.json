@@ -353,9 +353,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2024-11-27 13:10:10 +0000",
       "log_spam_fixer": "2024-11-27 09:40:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "comforts:hammock_magenta": {
     "criteria": {
@@ -439,6 +440,12 @@
   "vinery:spruce_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2024-11-27 09:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-11-27 13:12:27 +0000"
     },
     "done": true
   },
@@ -1050,6 +1057,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-11-27 11:45:07 +0000"
+    },
+    "done": true
+  },
+  "undead_unleashed:boo": {
+    "criteria": {
+      "boo": "2024-11-27 13:14:01 +0000"
     },
     "done": true
   },
