@@ -265,6 +265,12 @@
     },
     "done": true
   },
+  "savage_and_ravage:adventure/creeper_spores": {
+    "criteria": {
+      "creeper_spores": "2024-11-27 13:19:54 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink": {
     "criteria": {
       "has_the_recipe": "2024-11-27 10:48:03 +0000"
@@ -415,6 +421,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-27 13:18:47 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
       "log_spam_fixer": "2024-11-27 10:48:05 +0000"
@@ -489,6 +501,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2024-11-27 13:20:30 +0000",
       "minecraft:zombie": "2024-11-27 11:12:28 +0000"
     },
     "done": false
@@ -667,6 +680,12 @@
       "has_the_recipe": "2024-11-27 10:48:03 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "ratatouille": "2024-11-27 13:18:47 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
@@ -1079,6 +1098,12 @@
     },
     "done": false
   },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-27 13:18:47 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-27 10:48:03 +0000"
@@ -1258,6 +1283,12 @@
   "comforts:hammock_orange": {
     "criteria": {
       "has_the_recipe": "2024-11-27 10:48:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2024-11-27 13:18:47 +0000"
     },
     "done": true
   },

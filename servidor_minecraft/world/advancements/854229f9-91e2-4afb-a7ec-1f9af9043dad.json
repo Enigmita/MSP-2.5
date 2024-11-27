@@ -71,6 +71,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/materials/earth_heart": {
+    "criteria": {
+      "has_items": "2024-11-27 13:19:00 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2024-11-27 09:40:10 +0000"
@@ -211,6 +217,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2024-11-27 13:19:09 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/materials/pure_heart": {
     "criteria": {
       "has_the_recipe": "2024-11-27 09:40:10 +0000"
@@ -347,6 +359,7 @@
   },
   "enigmaticlegacy:recipes/generic/twisted_mirror": {
     "criteria": {
+      "has_parent_recipe": "2024-11-27 13:19:00 +0000",
       "is_cursed_one": "2024-11-27 09:54:42 +0000"
     },
     "done": false
@@ -373,6 +386,12 @@
   "enigmaticlegacy:recipes/generic/hunter_guidebook": {
     "criteria": {
       "has_items": "2024-11-27 13:05:01 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/infinimeal": {
+    "criteria": {
+      "has_items": "2024-11-27 13:19:00 +0000"
     },
     "done": true
   },
@@ -604,7 +623,8 @@
     "criteria": {
       "minecraft:pillager": "2024-11-27 11:54:37 +0000",
       "minecraft:spider": "2024-11-27 12:50:17 +0000",
-      "minecraft:zombified_piglin": "2024-11-27 12:37:58 +0000"
+      "minecraft:zombified_piglin": "2024-11-27 12:37:58 +0000",
+      "minecraft:zombie": "2024-11-27 13:17:01 +0000"
     },
     "done": false
   },
@@ -613,6 +633,12 @@
       "log_spam_fixer": "2024-11-27 09:40:14 +0000"
     },
     "done": false
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2024-11-27 13:18:08 +0000"
+    },
+    "done": true
   },
   "vinery:shelf": {
     "criteria": {
@@ -875,9 +901,10 @@
   },
   "enigmaticlegacy:recipes/generic/twisted_heart": {
     "criteria": {
+      "has_items": "2024-11-27 13:19:00 +0000",
       "is_cursed_one": "2024-11-27 09:54:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "aquamirae:adventure/root": {
     "criteria": {
@@ -923,6 +950,7 @@
   },
   "enigmaticlegacy:recipes/generic/cursed_stone": {
     "criteria": {
+      "has_parent_recipe": "2024-11-27 13:19:00 +0000",
       "is_cursed_one": "2024-11-27 09:54:42 +0000"
     },
     "done": false
@@ -1096,6 +1124,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/twisted_heart": {
+    "criteria": {
+      "has_the_recipe": "2024-11-27 13:19:00 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2024-11-27 09:40:10 +0000"
@@ -1159,6 +1193,12 @@
   "vinery:stripped_cherry_wood": {
     "criteria": {
       "has_the_recipe": "2024-11-27 09:40:10 +0000"
+    },
+    "done": true
+  },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2024-11-27 13:17:01 +0000"
     },
     "done": true
   },
@@ -1274,6 +1314,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/infinimeal": {
+    "criteria": {
+      "has_the_recipe": "2024-11-27 13:19:00 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-27 09:40:10 +0000"
@@ -1297,6 +1343,12 @@
       "log_spam_fixer": "2024-11-27 09:40:14 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:main/unholy_grail": {
+    "criteria": {
+      "spellstone": "2024-11-27 13:25:38 +0000"
+    },
+    "done": true
   },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
@@ -1543,6 +1595,12 @@
   "enigmaticaddons:book/misc/bless_amplifier": {
     "criteria": {
       "has_the_recipe": "2024-11-27 09:40:10 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/unholy_grail": {
+    "criteria": {
+      "has_items": "2024-11-27 13:24:28 +0000"
     },
     "done": true
   },

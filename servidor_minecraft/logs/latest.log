@@ -3896,3 +3896,43 @@ java.lang.IllegalArgumentException: null
 [27Nov2024 13:15:45.091] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
 [27Nov2024 13:17:01.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 has made the advancement [Knight Quest]
 [27Nov2024 13:17:10.941] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[27Nov2024 13:18:08.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 has reached the goal [Flawless Crystals]
+[27Nov2024 13:18:34.545] [Worker-Main8/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/justinwon777/humancompanions/entity/ai/ArbalistRangedCrossbowAttackGoal$CrossbowState
+[27Nov2024 13:19:19.726] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ivancito3008 lost connection: Disconnected
+[27Nov2024 13:19:19.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 left the game
+[27Nov2024 13:19:54.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JakeRomas has made the advancement [Creepie Crawly]
+[27Nov2024 13:20:38.576] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[27Nov2024 13:23:15.651] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ivancito3008 is 854229f9-91e2-4afb-a7ec-1f9af9043dad
+[27Nov2024 13:23:27.472] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[27Nov2024 13:23:27.524] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[27Nov2024 13:23:27.572] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[27Nov2024 13:23:27.623] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[27Nov2024 13:23:27.676] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[27Nov2024 13:23:27.729] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[27Nov2024 13:23:27.778] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[27Nov2024 13:23:27.823] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[27Nov2024 13:23:27.873] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[27Nov2024 13:23:27.923] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[27Nov2024 13:23:27.972] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[27Nov2024 13:23:28.036] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[27Nov2024 13:23:28.116] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[27Nov2024 13:23:28.127] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[27Nov2024 13:23:28.182] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[27Nov2024 13:23:28.280] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@61157329
+[27Nov2024 13:23:28.292] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ivancito3008[/100.118.156.17:57351] logged in with entity id 9183 at (-792.6505261185529, 37.0, -736.9212563214155)
+[27Nov2024 13:23:28.353] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ivancito3008
+[27Nov2024 13:23:28.354] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ivancito3008
+[27Nov2024 13:23:28.355] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ivancito3008
+[27Nov2024 13:23:28.356] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ivancito3008
+[27Nov2024 13:23:28.358] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ivancito3008
+[27Nov2024 13:23:28.363] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ivancito3008
+[27Nov2024 13:23:28.364] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ivancito3008
+[27Nov2024 13:23:28.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 joined the game
+[27Nov2024 13:23:28.589] [Server thread/INFO] [Jade/]: Syncing config to ivancito3008 (854229f9-91e2-4afb-a7ec-1f9af9043dad)
+[27Nov2024 13:23:28.698] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ivancito3008...
+[27Nov2024 13:23:28.699] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[27Nov2024 13:23:28.700] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[27Nov2024 13:23:28.700] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ivancito3008
+[27Nov2024 13:25:38.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 has made the advancement [Ignoring the Advices]
+[27Nov2024 13:27:51.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JakeRomas has made the advancement [Suit Up]
+[27Nov2024 13:28:18.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 has made the advancement [Let's Get To Work]
