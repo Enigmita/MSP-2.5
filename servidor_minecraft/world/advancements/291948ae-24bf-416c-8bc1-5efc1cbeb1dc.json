@@ -175,6 +175,12 @@
     },
     "done": false
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-11-27 13:43:06 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-27 10:48:03 +0000"
@@ -464,11 +470,24 @@
     },
     "done": false
   },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2024-11-27 13:42:44 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2024-11-27 10:48:03 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2024-11-27 13:45:20 +0000",
+      "opened_chest": "2024-11-27 13:43:06 +0000"
+    },
+    "done": false
   },
   "vinery:cherry_door": {
     "criteria": {
@@ -648,6 +667,12 @@
   "enigmaticaddons:book/accessories/earth_promise": {
     "criteria": {
       "has_the_recipe": "2024-11-27 10:48:03 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-11-27 13:45:20 +0000"
     },
     "done": true
   },
