@@ -390,6 +390,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_druid_circle": "2024-11-27 12:53:23 +0000",
       "entered_witch_tower": "2024-11-27 12:44:04 +0000"
     },
     "done": false
@@ -1462,6 +1463,8 @@
   },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
+      "byg:allium_fields": "2024-11-27 12:53:04 +0000",
+      "byg:prairie": "2024-11-27 13:03:41 +0000",
       "byg:zelkova_forest": "2024-11-27 12:37:20 +0000"
     },
     "done": false

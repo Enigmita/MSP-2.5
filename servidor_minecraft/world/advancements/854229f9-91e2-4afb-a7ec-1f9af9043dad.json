@@ -260,6 +260,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/misc/hunter_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2024-11-27 13:05:01 +0000"
+    },
+    "done": true
+  },
   "vinery:grapevine_lattice": {
     "criteria": {
       "has_the_recipe": "2024-11-27 09:40:10 +0000"
@@ -321,9 +327,21 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/tome_uncrafting/tattered_tome": {
+    "criteria": {
+      "has_items": "2024-11-27 13:00:50 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-27 09:40:10 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2024-11-27 13:00:30 +0000"
     },
     "done": true
   },
@@ -348,6 +366,12 @@
   "vinery:fermentation_barrel": {
     "criteria": {
       "has_the_recipe": "2024-11-27 09:40:10 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/hunter_guidebook": {
+    "criteria": {
+      "has_items": "2024-11-27 13:05:01 +0000"
     },
     "done": true
   },
@@ -673,6 +697,12 @@
     },
     "done": false
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-11-27 12:51:23 +0000"
+    },
+    "done": true
+  },
   "vinery:wine_press": {
     "criteria": {
       "has_the_recipe": "2024-11-27 09:40:10 +0000"
@@ -767,6 +797,12 @@
   "vinery:cherry_chest_boat": {
     "criteria": {
       "has_the_recipe": "2024-11-27 09:40:10 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/relics/lost_engine": {
+    "criteria": {
+      "has_items": "2024-11-27 13:04:00 +0000"
     },
     "done": true
   },
@@ -1168,6 +1204,12 @@
     },
     "done": true
   },
+  "majruszsaccessories:miner_guide": {
+    "criteria": {
+      "picked_up_accessory": "2024-11-27 13:02:46 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-27 09:40:10 +0000"
@@ -1191,6 +1233,12 @@
       "log_spam_fixer": "2024-11-27 09:40:14 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:book/enchantments/generic": {
+    "criteria": {
+      "has_items": "2024-11-27 13:05:32 +0000"
+    },
+    "done": true
   },
   "enigmaticlegacy:book/accessories/ender_ring": {
     "criteria": {
@@ -1292,6 +1340,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2024-11-27 13:05:32 +0000"
+    },
+    "done": true
+  },
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2024-11-27 09:40:10 +0000"
@@ -1350,6 +1404,12 @@
     "criteria": {
       "requirement": "2024-11-27 11:31:34 +0000",
       "log_spam_fixer": "2024-11-27 09:40:14 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/animal_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2024-11-27 13:05:14 +0000"
     },
     "done": true
   },
@@ -1454,6 +1514,12 @@
       "is_cursed_one": "2024-11-27 09:54:42 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:recipes/generic/animal_guidebook": {
+    "criteria": {
+      "has_items": "2024-11-27 13:05:14 +0000"
+    },
+    "done": true
   },
   "enigmaticlegacy:main/root": {
     "criteria": {
