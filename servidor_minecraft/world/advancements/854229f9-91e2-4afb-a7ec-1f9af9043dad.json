@@ -255,7 +255,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "golden_apple": "2024-11-27 11:45:58 +0000"
+      "golden_apple": "2024-11-27 11:45:58 +0000",
+      "golden_carrot": "2024-11-27 12:39:13 +0000"
     },
     "done": false
   },
@@ -564,7 +565,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:pillager": "2024-11-27 11:54:37 +0000"
+      "minecraft:pillager": "2024-11-27 11:54:37 +0000",
+      "minecraft:zombified_piglin": "2024-11-27 12:37:58 +0000"
     },
     "done": false
   },
