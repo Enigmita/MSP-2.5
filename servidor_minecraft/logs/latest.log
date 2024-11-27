@@ -3864,3 +3864,210 @@ java.lang.IllegalArgumentException: null
 [27Nov2024 12:40:30.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 was shot by Skeleton
 [27Nov2024 12:40:30.821] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ivancito3008 at X: -559.107299276748, Y: 72.00133597911214, Z: -504.89159135707087
 [27Nov2024 12:41:35.536] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[27Nov2024 12:41:55.580] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[27Nov2024 12:42:10.564] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ivancito3008 picking up: PermanentItemEntity['Soul Crystal'/7229, l='ServerLevel[world]', x=-611.68, y=81.50, z=-667.13]
+[27Nov2024 12:42:10.574] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/7229, l='ServerLevel[world]', x=-611.68, y=81.50, z=-667.13]
+[27Nov2024 12:42:19.109] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player NsoEnigma picking up: PermanentItemEntity['Soul Crystal'/6770, l='ServerLevel[world]', x=-757.68, y=81.00, z=332.07]
+[27Nov2024 12:42:19.110] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/6770, l='ServerLevel[world]', x=-757.68, y=81.00, z=332.07]
+[27Nov2024 12:42:21.067] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player NsoEnigma picking up: PermanentItemEntity['Soul Crystal'/6776, l='ServerLevel[world]', x=-764.43, y=79.50, z=342.09]
+[27Nov2024 12:42:21.068] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/6776, l='ServerLevel[world]', x=-764.43, y=79.50, z=342.09]
+[27Nov2024 12:42:21.776] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27Nov2024 12:42:21.776] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27Nov2024 12:42:21.777] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27Nov2024 12:42:21.777] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27Nov2024 12:42:22.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NsoEnigma was chopped to bits by Skirmisher
+[27Nov2024 12:42:22.227] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from NsoEnigma at X: -766.1068507159937, Y: 78.0, Z: 341.42764671455535
+[27Nov2024 12:42:31.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[27Nov2024 12:42:36.297] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JakeRomas is 291948ae-24bf-416c-8bc1-5efc1cbeb1dc
+[27Nov2024 12:42:47.091] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[27Nov2024 12:42:47.131] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[27Nov2024 12:42:47.293] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[27Nov2024 12:42:47.294] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[27Nov2024 12:42:47.295] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[27Nov2024 12:42:47.341] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[27Nov2024 12:42:47.380] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[27Nov2024 12:42:47.435] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[27Nov2024 12:42:47.482] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[27Nov2024 12:42:47.532] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[27Nov2024 12:42:47.592] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[27Nov2024 12:42:47.708] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[27Nov2024 12:42:47.933] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[27Nov2024 12:42:47.934] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[27Nov2024 12:42:47.937] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[27Nov2024 12:42:48.050] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@545bc214
+[27Nov2024 12:42:48.091] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JakeRomas[/100.98.137.105:64396] logged in with entity id 9037 at (6.360000014305115, 84.0, 5.639999985694885)
+[27Nov2024 12:42:48.215] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JakeRomas
+[27Nov2024 12:42:48.215] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JakeRomas
+[27Nov2024 12:42:48.220] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JakeRomas
+[27Nov2024 12:42:48.222] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JakeRomas
+[27Nov2024 12:42:48.236] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JakeRomas
+[27Nov2024 12:42:48.238] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JakeRomas
+[27Nov2024 12:42:48.241] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JakeRomas
+[27Nov2024 12:42:48.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JakeRomas joined the game
+[27Nov2024 12:42:48.701] [Server thread/INFO] [Jade/]: Syncing config to JakeRomas (291948ae-24bf-416c-8bc1-5efc1cbeb1dc)
+[27Nov2024 12:42:49.004] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to JakeRomas...
+[27Nov2024 12:42:49.004] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[27Nov2024 12:42:49.005] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[27Nov2024 12:42:49.005] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to JakeRomas
+[27Nov2024 12:42:49.416] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player NsoEnigma picking up: PermanentItemEntity['Soul Crystal'/8562, l='ServerLevel[world]', x=-766.11, y=79.50, z=341.43]
+[27Nov2024 12:42:49.416] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/8562, l='ServerLevel[world]', x=-766.11, y=79.50, z=341.43]
+[27Nov2024 12:42:50.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[27Nov2024 12:43:16.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[27Nov2024 12:43:16.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 has made the advancement [Nerves of Steel]
+[27Nov2024 12:43:24.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 was slain by Frenzied Knight
+[27Nov2024 12:43:24.105] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ivancito3008 at X: -641.9836919891978, Y: 90.0, Z: -687.3241841177294
+[27Nov2024 12:43:37.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6014ms or 120 ticks behind
+[27Nov2024 12:43:55.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3251ms or 65 ticks behind
+[27Nov2024 12:43:57.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 was slain by Iron Golem
+[27Nov2024 12:43:57.762] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ivancito3008 at X: -520.1209623432951, Y: 80.85489329934836, Z: -550.9203270151852
+[27Nov2024 12:44:14.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3597ms or 71 ticks behind
+[27Nov2024 12:44:32.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2871ms or 57 ticks behind
+[27Nov2024 12:45:37.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 has made the advancement [Sweet Dreams]
+[27Nov2024 12:45:41.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NsoEnigma has made the advancement [The Secrets of Enchanting]
+[27Nov2024 12:45:56.420] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[27Nov2024 12:46:03.464] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[27Nov2024 12:46:24.388] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ivancito3008 picking up: PermanentItemEntity['Soul Crystal'/10930, l='ServerLevel[world]', x=-641.98, y=91.50, z=-687.32]
+[27Nov2024 12:46:24.393] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/10930, l='ServerLevel[world]', x=-641.98, y=91.50, z=-687.32]
+[27Nov2024 12:46:30.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 was blown up by Creeper
+[27Nov2024 12:46:30.867] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ivancito3008 at X: -647.5840470423566, Y: 91.0, Z: -695.5525961805834
+[27Nov2024 12:46:58.791] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=48, z=214}
+[27Nov2024 12:46:58.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 was slain by Huntsman
+[27Nov2024 12:46:58.801] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=48, z=214}
+[27Nov2024 12:46:58.802] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=49, z=214}
+[27Nov2024 12:46:58.802] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=48, z=214}
+[27Nov2024 12:46:58.803] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=49, z=214}
+[27Nov2024 12:46:58.803] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=49, z=214}
+[27Nov2024 12:46:58.803] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=50, z=214}
+[27Nov2024 12:46:58.804] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=50, z=214}
+[27Nov2024 12:46:58.804] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=50, z=214}
+[27Nov2024 12:46:58.806] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ivancito3008 at X: -634.2689744931872, Y: 84.0, Z: -693.863028575813
+[27Nov2024 12:47:03.321] [Worker-Main7/WARN] [ModernFix/]: The namespace byg contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[27Nov2024 12:47:04.938] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[27Nov2024 12:47:08.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NsoEnigma moved too quickly! -1.2159722620734783,3.486317254118916,9.605171514631706
+[27Nov2024 12:47:12.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NsoEnigma moved too quickly! -10.081443178316931,0.5537688693640064,-1.204287557130158
+[27Nov2024 12:47:20.816] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=48, z=214}
+[27Nov2024 12:47:20.817] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=48, z=214}
+[27Nov2024 12:47:20.817] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=49, z=214}
+[27Nov2024 12:47:20.818] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=48, z=214}
+[27Nov2024 12:47:20.819] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=49, z=214}
+[27Nov2024 12:47:20.819] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=49, z=214}
+[27Nov2024 12:47:20.820] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=50, z=214}
+[27Nov2024 12:47:20.821] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=50, z=214}
+[27Nov2024 12:47:20.821] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=50, z=214}
+[27Nov2024 12:47:21.697] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27Nov2024 12:47:21.718] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27Nov2024 12:47:25.745] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[27Nov2024 12:47:28.705] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ivancito3008 picking up: PermanentItemEntity['Soul Crystal'/12850, l='ServerLevel[world]', x=-647.58, y=92.50, z=-695.55]
+[27Nov2024 12:47:28.706] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/12850, l='ServerLevel[world]', x=-647.58, y=92.50, z=-695.55]
+[27Nov2024 12:47:29.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9319ms or 186 ticks behind
+[27Nov2024 12:47:41.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ivancito3008 moved too quickly! -10.09670176502243,0.1754232959521005,1.622686747124817
+[27Nov2024 12:47:49.905] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Nov2024 12:47:49.905] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[27Nov2024 12:47:49.905] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 iron_pickaxe
+[27Nov2024 12:47:49.906] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[27Nov2024 12:47:49.906] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 0
+[27Nov2024 12:47:49.906] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Nov2024 12:47:49.907] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[27Nov2024 12:47:49.907] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 iron_pickaxe
+[27Nov2024 12:47:49.907] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[27Nov2024 12:47:49.915] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 0
+[27Nov2024 12:47:51.920] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Nov2024 12:47:51.922] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[27Nov2024 12:47:51.922] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 iron_pickaxe
+[27Nov2024 12:47:51.922] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[27Nov2024 12:47:51.923] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 0
+[27Nov2024 12:47:51.926] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Nov2024 12:47:51.927] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[27Nov2024 12:47:51.927] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 iron_pickaxe
+[27Nov2024 12:47:51.928] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[27Nov2024 12:47:51.928] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 0
+[27Nov2024 12:47:51.931] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Nov2024 12:47:51.932] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[27Nov2024 12:47:51.933] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 iron_pickaxe
+[27Nov2024 12:47:51.933] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[27Nov2024 12:47:51.934] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 0
+[27Nov2024 12:47:52.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NsoEnigma moved too quickly! -10.051263965106273,-0.45860001311302767,-0.26968137788230706
+[27Nov2024 12:47:52.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ivancito3008 moved too quickly! -10.338255793416579,0.7531999805212024,-0.44429024544047024
+[27Nov2024 12:47:52.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JakeRomas moved too quickly! -9.527581211408885,-3.0,1.8260929032621434
+[27Nov2024 12:47:55.735] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=48, z=214}
+[27Nov2024 12:47:55.738] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=48, z=214}
+[27Nov2024 12:47:55.741] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=49, z=214}
+[27Nov2024 12:47:55.742] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=48, z=214}
+[27Nov2024 12:47:55.743] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=49, z=214}
+[27Nov2024 12:47:55.752] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=49, z=214}
+[27Nov2024 12:47:55.753] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=50, z=214}
+[27Nov2024 12:47:55.753] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=50, z=214}
+[27Nov2024 12:47:55.754] [Worker-Main7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=50, z=214}
+[27Nov2024 12:48:02.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18055ms or 361 ticks behind
+[27Nov2024 12:48:32.025] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=35, y=-58, z=-32}
+[27Nov2024 12:48:32.304] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1041, y=-52, z=174} but found not block entity block Block{minecraft:air} at location
+[27Nov2024 12:48:32.305] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1041, y=-52, z=174}
+[27Nov2024 12:48:32.305] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1043, y=-52, z=174} but found not block entity block Block{minecraft:air} at location
+[27Nov2024 12:48:32.305] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1043, y=-52, z=174}
+[27Nov2024 12:48:32.306] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1043, y=-52, z=171} but found not block entity block Block{minecraft:air} at location
+[27Nov2024 12:48:32.306] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1043, y=-52, z=171}
+[27Nov2024 12:48:35.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[27Nov2024 12:48:41.964] [Worker-Main7/WARN] [ModernFix/]: The namespace betterstrongholds contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[27Nov2024 12:48:52.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2350ms or 47 ticks behind
+[27Nov2024 12:49:07.338] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / strictly:falldmg_falldmg2] from power ResourceKey[apoli:configured_power / strictly:falldmg]
+[27Nov2024 12:49:07.339] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / strictly:falldmg_falldmg] from power ResourceKey[apoli:configured_power / strictly:falldmg]
+[27Nov2024 12:49:21.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[27Nov2024 12:49:25.143] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=48, z=214}
+[27Nov2024 12:49:25.144] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=48, z=214}
+[27Nov2024 12:49:25.145] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=49, z=214}
+[27Nov2024 12:49:25.147] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=48, z=214}
+[27Nov2024 12:49:25.148] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=49, z=214}
+[27Nov2024 12:49:25.148] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=49, z=214}
+[27Nov2024 12:49:25.149] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=50, z=214}
+[27Nov2024 12:49:25.150] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=50, z=214}
+[27Nov2024 12:49:25.152] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=50, z=214}
+[27Nov2024 12:49:25.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NsoEnigma has made the advancement [Best Friends Forever]
+[27Nov2024 12:49:25.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NsoEnigma has reached the goal [Gotta Catch 'em All!]
+[27Nov2024 12:49:40.722] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=48, z=214}
+[27Nov2024 12:49:40.724] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=48, z=214}
+[27Nov2024 12:49:40.724] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=49, z=214}
+[27Nov2024 12:49:40.725] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=48, z=214}
+[27Nov2024 12:49:40.725] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=49, z=214}
+[27Nov2024 12:49:40.725] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=49, z=214}
+[27Nov2024 12:49:40.726] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=50, z=214}
+[27Nov2024 12:49:40.727] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=50, z=214}
+[27Nov2024 12:49:40.728] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=50, z=214}
+[27Nov2024 12:49:48.685] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=198, y=48, z=187}
+[27Nov2024 12:49:54.743] [Worker-Main7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27Nov2024 12:49:59.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[27Nov2024 12:50:04.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 has made the advancement [Far From Perfect]
+[27Nov2024 12:50:24.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[27Nov2024 12:50:26.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 was slain by Zombie
+[27Nov2024 12:50:26.612] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ivancito3008 at X: -783.1347607287653, Y: 46.0, Z: -737.2212754349277
+[27Nov2024 12:50:26.615] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Nov2024 12:50:26.616] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[27Nov2024 12:50:26.616] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[27Nov2024 12:50:26.617] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[27Nov2024 12:50:26.617] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[27Nov2024 12:50:43.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3110ms or 62 ticks behind
+[27Nov2024 12:50:48.511] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ivancito3008 picking up: PermanentItemEntity['Soul Crystal'/15865, l='ServerLevel[world]', x=-783.13, y=47.50, z=-737.22]
+[27Nov2024 12:50:48.514] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/15865, l='ServerLevel[world]', x=-783.13, y=47.50, z=-737.22]
+[27Nov2024 12:50:56.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 was slain by Zombie
+[27Nov2024 12:50:56.306] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ivancito3008 at X: -786.3624895095965, Y: 46.0, Z: -736.6211807833156
+[27Nov2024 12:50:57.471] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=33, y=-4, z=50}
+[27Nov2024 12:50:57.471] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=35, y=-4, z=51}
+[27Nov2024 12:50:57.472] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=39, y=-10, z=52}
+[27Nov2024 12:50:57.473] [Worker-Main1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=39, y=-10, z=48}
+[27Nov2024 12:51:03.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5442ms or 108 ticks behind
+[27Nov2024 12:51:13.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JakeRomas has made the advancement [Darkness Lies Ahead]
+[27Nov2024 12:51:21.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3501ms or 70 ticks behind
+[27Nov2024 12:51:22.479] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player ivancito3008 picking up: PermanentItemEntity['Soul Crystal'/16358, l='ServerLevel[world]', x=-786.36, y=47.50, z=-736.62]
+[27Nov2024 12:51:22.480] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/16358, l='ServerLevel[world]', x=-786.36, y=47.50, z=-736.62]
+[27Nov2024 12:51:23.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 has made the advancement [Close Quarters]
+[27Nov2024 12:51:40.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3104ms or 62 ticks behind
+[27Nov2024 12:51:58.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3247ms or 64 ticks behind
+[27Nov2024 12:52:14.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JakeRomas moved too quickly! -6.87327707671443,-7.742898266260738,2.3900766705291336
+[27Nov2024 12:52:18.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5632ms or 112 ticks behind
+[27Nov2024 12:52:19.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivancito3008 was slain by Zombie
+[27Nov2024 12:52:19.562] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from ivancito3008 at X: -770.9323952387552, Y: 46.0, Z: -737.3780404475181
+[27Nov2024 12:52:19.617] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Nov2024 12:52:19.618] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 21 is dual wielding: false
+[27Nov2024 12:52:19.618] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[27Nov2024 12:52:19.619] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[27Nov2024 12:52:19.619] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[27Nov2024 12:52:20.180] [Worker-Main1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing

@@ -295,6 +295,7 @@
       "cooked_porkchop": "2024-11-27 10:32:17 +0000",
       "cooked_beef": "2024-11-27 10:24:02 +0000",
       "cooked_mutton": "2024-11-27 10:44:32 +0000",
+      "sweet_berries": "2024-11-27 12:41:08 +0000",
       "apple": "2024-11-27 10:50:11 +0000",
       "golden_apple": "2024-11-27 10:43:19 +0000",
       "bread": "2024-11-27 12:36:48 +0000",
@@ -386,6 +387,12 @@
       "has_scrap": "2024-11-27 11:11:21 +0000"
     },
     "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_witch_tower": "2024-11-27 12:44:04 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:recipes/generic/twisted_mirror": {
     "criteria": {
@@ -690,6 +697,7 @@
       "minecraft:skeleton": "2024-11-27 10:29:06 +0000",
       "minecraft:spider": "2024-11-27 10:09:03 +0000",
       "minecraft:creeper": "2024-11-27 11:17:41 +0000",
+      "minecraft:witch": "2024-11-27 12:44:26 +0000",
       "minecraft:wither_skeleton": "2024-11-27 10:57:35 +0000",
       "minecraft:cave_spider": "2024-11-27 10:52:16 +0000",
       "minecraft:enderman": "2024-11-27 10:08:32 +0000",
@@ -933,6 +941,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-11-27 12:49:25 +0000"
+    },
+    "done": true
+  },
   "vinery:flower_pot": {
     "criteria": {
       "has_the_recipe": "2024-11-27 09:40:21 +0000"
@@ -969,6 +983,12 @@
     },
     "done": false
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2024-11-27 12:40:34 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-27 09:40:21 +0000"
@@ -980,6 +1000,12 @@
       "is_cursed_one": "2024-11-27 09:55:02 +0000"
     },
     "done": false
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_witch_tower": "2024-11-27 12:44:04 +0000"
+    },
+    "done": true
   },
   "vinery:spruce_wine_rack_small": {
     "criteria": {
@@ -1470,6 +1496,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/enchantments/generic": {
+    "criteria": {
+      "has_items": "2024-11-27 12:45:41 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/ender_ring": {
     "criteria": {
       "is_cursed_one": "2024-11-27 09:55:02 +0000"
@@ -1488,7 +1520,9 @@
       "minecraft:taiga": "2024-11-27 10:28:55 +0000",
       "minecraft:river": "2024-11-27 10:28:25 +0000",
       "minecraft:dripstone_caves": "2024-11-27 10:05:28 +0000",
+      "atmospheric:aspen_parkland": "2024-11-27 12:47:52 +0000",
       "minecraft:forest": "2024-11-27 10:23:13 +0000",
+      "atmospheric:laurel_forest": "2024-11-27 12:48:44 +0000",
       "minecraft:meadow": "2024-11-27 10:20:58 +0000",
       "minecraft:plains": "2024-11-27 09:40:24 +0000"
     },
@@ -1508,7 +1542,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "direct": "2024-11-27 12:35:47 +0000"
+      "direct": "2024-11-27 12:48:00 +0000"
     },
     "done": false
   },
@@ -1606,6 +1640,12 @@
   "explorerscompass:explorers_compass": {
     "criteria": {
       "has_compass": "2024-11-27 09:40:21 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2024-11-27 12:45:41 +0000"
     },
     "done": true
   },
@@ -1789,6 +1829,12 @@
       "is_cursed_one": "2024-11-27 09:55:02 +0000"
     },
     "done": false
+  },
+  "majruszsaccessories:certificate_of_taming": {
+    "criteria": {
+      "picked_up_accessory": "2024-11-27 12:49:25 +0000"
+    },
+    "done": true
   },
   "vinery:grapevine_pot": {
     "criteria": {

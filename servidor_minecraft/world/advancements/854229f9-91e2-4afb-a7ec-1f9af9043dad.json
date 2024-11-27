@@ -448,6 +448,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-11-27 12:45:37 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:root": {
     "criteria": {
       "ars_nouveau:worn_notebook": "2024-11-27 09:40:10 +0000"
@@ -566,6 +572,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-11-27 11:54:37 +0000",
+      "minecraft:spider": "2024-11-27 12:50:17 +0000",
       "minecraft:zombified_piglin": "2024-11-27 12:37:58 +0000"
     },
     "done": false
@@ -603,6 +610,12 @@
   "vinery:cherry_sign": {
     "criteria": {
       "has_the_recipe": "2024-11-27 09:40:10 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2024-11-27 12:50:04 +0000"
     },
     "done": true
   },
@@ -687,6 +700,12 @@
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2024-11-27 12:01:27 +0000"
+    },
+    "done": true
+  },
+  "undead_unleashed:nerves_of_steel": {
+    "criteria": {
+      "nerves_of_steel": "2024-11-27 12:43:16 +0000"
     },
     "done": true
   },
@@ -1043,6 +1062,12 @@
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2024-11-27 09:40:10 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/relics/antique_bag": {
+    "criteria": {
+      "has_items": "2024-11-27 12:49:57 +0000"
     },
     "done": true
   },
